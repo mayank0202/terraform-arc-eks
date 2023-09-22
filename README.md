@@ -1,1 +1,1 @@
-# terraform-aws-arc-eks
+# terraform-arc-eks
